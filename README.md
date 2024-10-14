@@ -87,9 +87,9 @@ Liderei a estrutura de redes da empresa e desenvolvi sistemas web.
 
 <div>
   <a href="https://github.com/KevinSGuimaraes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinSGuimaraes&theme=cobalt&show_icons=true&hide_border=false&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinSGuimaraes&theme=cobalt&hide_border=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSGuimaraes&theme=cobalt&show_icons=true&hide_border=false&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=KevinSGuimaraes&theme=cobalt&show_icons=true&hide_border=false&count_private=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinSGuimaraes&theme=cobalt&hide_border=false"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSGuimaraes&theme=cobalt&show_icons=true&hide_border=false&layout=compact"/>
   </a>
 </div>
 
