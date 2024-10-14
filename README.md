@@ -1,6 +1,4 @@
-# Oi, me chamo Kevin de Souza Guimarães 👋
-
-### Sobre mim
+# Sobre mim
 
 💻 Eu sou um desenvolvedor Fullstack e Instrutor de Tecnologia.
 
