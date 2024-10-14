@@ -18,8 +18,7 @@
 
 **Tecnologias e Ferramentas**
 
-<div>
-  <div style="text-align: center; float:left;">
+<div style="text-align: center; float:left;">
     <img alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -32,7 +31,6 @@
     <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img alt="SQL Server" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
     <img alt="Pascal" height="40" width="40" src="https://static-00.iconduck.com/assets.00/file-pdf-icon-256x256-hrraxrws.png">
-    <img align="center" alt="Delphi" height="40" width="40" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/02f50532-2e3b-4734-a40b-21b752f59376/d441oe-aa17a99b-38dc-4939-943d-ccff6c9cdeb7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAyZjUwNTMyLTJlM2ItNDczNC1hNDBiLTIxYjc1MmY1OTM3NlwvZDQ0MW9lLWFhMTdhOTliLTM4ZGMtNDkzOS05NDNkLWNjZmY2YzljZGViNy5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.A4RJLiqIBYMEZoc4iVlb-5AHm0hUbFLgko0mZ8O8eHA">
     <img alt="STM32" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROfP0gDWkraA2HJ_iDqkabeflLqFvzZQmtCnUNasRCVomuFrVST1x7h0Z9LWxIZYcvG7Q&usqp=CAU">
     <img alt="Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
@@ -43,6 +41,7 @@
     <img alt="Fireworks" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-fireworks.png">
     <img alt="Premiere" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVtjjlGjPAlBcubKy69AR_U8rxPApEeMR9ug&s">
     <img alt="After Effects" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png">
+    <img align="center" alt="Delphi" height="40" width="40" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/02f50532-2e3b-4734-a40b-21b752f59376/d441oe-aa17a99b-38dc-4939-943d-ccff6c9cdeb7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAyZjUwNTMyLTJlM2ItNDczNC1hNDBiLTIxYjc1MmY1OTM3NlwvZDQ0MW9lLWFhMTdhOTliLTM4ZGMtNDkzOS05NDNkLWNjZmY2YzljZGViNy5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.A4RJLiqIBYMEZoc4iVlb-5AHm0hUbFLgko0mZ8O8eHA">
 </div>
 
 ---
