@@ -39,8 +39,8 @@
     <img alt="GitHub" height="40" width="40" src="https://img.icons8.com/ios-filled/50/ffffff/github.png">
     <img alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     <img alt="Fireworks" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-fireworks.png">
-    <img alt="Premiere" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVtjjlGjPAlBcubKy69AR_U8rxPApEeMR9ug&s">
-    <img alt="After Effects" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png">
+    <img alt="Premiere" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png">
+    <img alt="After Effects" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png">
     <img alt="Delphi" height="40" width="40" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/02f50532-2e3b-4734-a40b-21b752f59376/d441oe-aa17a99b-38dc-4939-943d-ccff6c9cdeb7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAyZjUwNTMyLTJlM2ItNDczNC1hNDBiLTIxYjc1MmY1OTM3NlwvZDQ0MW9lLWFhMTdhOTliLTM4ZGMtNDkzOS05NDNkLWNjZmY2YzljZGViNy5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.A4RJLiqIBYMEZoc4iVlb-5AHm0hUbFLgko0mZ8O8eHA">
 </div>
 
