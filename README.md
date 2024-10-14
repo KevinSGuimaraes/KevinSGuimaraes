@@ -29,10 +29,10 @@
   <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SQL Server" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
-  <img align="center" alt="Pascal" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Free_Pascal_logo.svg">
-  <img align="center" alt="Delphi" height="40" width="40" src="https://img.icons8.com/color/48/000000/delphi.png">
-  <img align="center" alt="STM32" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stm32/stm32-original.svg">
+  <img align="center" alt="SQL Server" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Microsoft_SQL_Server_logo.svg">
+  <img align="center" alt="Pascal" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Free_Pascal_logo.svg">
+  <img align="center" alt="Delphi" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Embarcadero_Delphi_logo.svg">
+  <img align="center" alt="STM32" height="40" width="40" src="https://img.icons8.com/color/48/000000/stm32.png">
   <img align="center" alt="Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -40,9 +40,8 @@
   <img align="center" alt="GitHub" height="40" width="40" src="https://img.icons8.com/ios-filled/50/ffffff/github.png">
   <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Fireworks" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-fireworks.png">
-  <img align="center" alt="Premiere" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-premiere.png">
+  <img align="center" alt="Premiere" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Adobe_Premiere_Pro_CC_logo.svg">
   <img align="center" alt="After Effects" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png">
-  <img align="center" alt="CorelDRAW" height="40" width="40" src="https://img.icons8.com/color/48/000000/coreldraw.png">
 </div>
 
 
