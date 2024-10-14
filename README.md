@@ -86,7 +86,6 @@ Liderei a estrutura de redes da empresa e desenvolvi sistemas web.
 ### Certificações 📜
 
 - CCNA: Introduction to Networks
-- Participação em Palestra Técnica - Fortalecendo Sistemas de Detecção de Intrusão com Machine Learning (ACTION Talents)
 
 ---
 
