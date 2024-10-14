@@ -86,15 +86,15 @@ Liderei a estrutura de redes da empresa e desenvolvi sistemas web.
 ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/KevinSGuimaraes">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinSGuimaraes&theme=cobalt&show_icons=true&hide_border=false&count_private=true"/>
+  <img width="125em" src="https://github-readme-stats.vercel.app/api?username=KevinSGuimaraes&theme=cobalt&show_icons=true&hide_border=false&count_private=true"/>
 </a>
 <br />
 <a href="https://github.com/KevinSGuimaraes">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinSGuimaraes&theme=cobalt&hide_border=false"/>
+  <img width="125em" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinSGuimaraes&theme=cobalt&hide_border=false"/>
 </a>
 <br />
 <a href="https://github.com/KevinSGuimaraes">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSGuimaraes&theme=cobalt&show_icons=true&hide_border=false&layout=compact"/>
+  <img width="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSGuimaraes&theme=cobalt&show_icons=true&hide_border=false&layout=compact"/>
 </a>
 </div>
 ---
