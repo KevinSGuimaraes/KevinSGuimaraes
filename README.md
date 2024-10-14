@@ -86,7 +86,7 @@ Liderei a estrutura de redes da empresa e desenvolvi sistemas web.
 ### GitHub Stats ⚡
 
 <div>
-  <a href="https://github.com/kevindsg">
+  <a href="https://github.com/KevinSGuimaraes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSGuimaraes&layout=compact&langs_count=7&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinSGuimaraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
