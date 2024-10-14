@@ -18,103 +18,100 @@
 
 **Tecnologias e Ferramentas**
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <img alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <p>HTML5</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <div style="text-align: center;">
+    <img alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <p>CSS3</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <div style="text-align: center;">
+    <img alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <p>JavaScript</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <div style="text-align: center;">
+    <img alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <p>C</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <div style="text-align: center;">
+    <img alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <p>C#</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <div style="text-align: center;">
+    <img alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <p>C++</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <div style="text-align: center;">
+    <img alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <p>Java</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <div style="text-align: center;">
+    <img alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <p>PHP</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <div style="text-align: center;">
+    <img alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <p>PostgreSQL</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <div style="text-align: center;">
+    <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <p>MySQL</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="SQL Server" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
+  <div style="text-align: center;">
+    <img alt="SQL Server" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
     <p>SQL Server</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="Pascal" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Free_Pascal_logo.svg">
+  <div style="text-align: center;">
+    <img alt="Pascal" height="40" width="40" src="https://static-00.iconduck.com/assets.00/file-pdf-icon-256x256-hrraxrws.png">
     <p>Pascal</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="Delphi" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg">
+  <div style="text-align: center;">
+    <img align="center" alt="Delphi" height="40" width="40" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/02f50532-2e3b-4734-a40b-21b752f59376/d441oe-aa17a99b-38dc-4939-943d-ccff6c9cdeb7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAyZjUwNTMyLTJlM2ItNDczNC1hNDBiLTIxYjc1MmY1OTM3NlwvZDQ0MW9lLWFhMTdhOTliLTM4ZGMtNDkzOS05NDNkLWNjZmY2YzljZGViNy5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.A4RJLiqIBYMEZoc4iVlb-5AHm0hUbFLgko0mZ8O8eHA">
     <p>Delphi</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="STM32" height="40" width="40" src="https://img.icons8.com/color/48/000000/stm32.png">
+  <div style="text-align: center;">
+    <img alt="STM32" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROfP0gDWkraA2HJ_iDqkabeflLqFvzZQmtCnUNasRCVomuFrVST1x7h0Z9LWxIZYcvG7Q&usqp=CAU">
     <p>STM32</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <div style="text-align: center;">
+    <img alt="Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <p>Flutter</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <div style="text-align: center;">
+    <img alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
     <p>Dart</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <div style="text-align: center;">
+    <img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <p>Python</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <div style="text-align: center;">
+    <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <p>Git</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
+  <div style="text-align: center;">
     <img align="center" alt="GitHub" height="40" width="40" src="https://img.icons8.com/ios-filled/50/ffffff/github.png">
     <p>GitHub</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <div style="text-align: center;">
+    <img alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     <p>Figma</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="Fireworks" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-fireworks.png">
+  <div style="text-align: center;">
+    <img alt="Fireworks" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-fireworks.png">
     <p>Fireworks</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="Premiere" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Adobe_Premiere_Pro_CC_logo.svg">
+  <div style="text-align: center;">
+    <img alt="Premiere" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVtjjlGjPAlBcubKy69AR_U8rxPApEeMR9ug&s">
     <p>Premiere</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img align="center" alt="After Effects" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png">
+  <div style="text-align: center;">
+    <img alt="After Effects" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png">
     <p>After Effects</p>
   </div>
 </div>
-
-
-
 
 ---
 
