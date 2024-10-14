@@ -21,9 +21,6 @@
 <div>
   <div style="text-align: center; float:left;">
     <img alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <p>HTML5</p>
-  </div>
-  <div style="text-align: center; float:left;">
     <img alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <p>CSS3</p>
   </div>
