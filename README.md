@@ -18,7 +18,7 @@
 
 **Tecnologias e Ferramentas**
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -47,20 +47,6 @@
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.simpleicons.org/html5/E34F26">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.simpleicons.org/css3/1572B6">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.simpleicons.org/javascript/F7DF1E">
-  <img align="center" alt="C" height="40" width="40" src="https://cdn.simpleicons.org/c/00599C">
-  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.simpleicons.org/php/777BB4">
-  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.simpleicons.org/postgresql/336791">
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.simpleicons.org/mysql/4479A1">
-  <img align="center" alt="Flutter" height="40" width="40" src="https://cdn.simpleicons.org/flutter/02569B">
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.simpleicons.org/git/F05033">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.simpleicons.org/github/181717">
-  <img align="center" alt="Figma" height="40" width="40" src="https://cdn.simpleicons.org/figma/F24E1E">
 </div>
 
 ---
