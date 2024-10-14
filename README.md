@@ -18,30 +18,99 @@
 
 **Tecnologias e Ferramentas**
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SQL Server" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Microsoft_SQL_Server_logo.svg">
-  <img align="center" alt="Pascal" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Free_Pascal_logo.svg">
-  <img align="center" alt="Delphi" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Embarcadero_Delphi_logo.svg">
-  <img align="center" alt="STM32" height="40" width="40" src="https://img.icons8.com/color/48/000000/stm32.png">
-  <img align="center" alt="Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://img.icons8.com/ios-filled/50/ffffff/github.png">
-  <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Fireworks" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-fireworks.png">
-  <img align="center" alt="Premiere" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Adobe_Premiere_Pro_CC_logo.svg">
-  <img align="center" alt="After Effects" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png">
+<div style="display: inline-block; text-align: center; margin: 10px;">
+  <div>
+    <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <p>HTML5</p>
+  </div>
+  <div>
+    <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <p>CSS3</p>
+  </div>
+  <div>
+    <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <p>JavaScript</p>
+  </div>
+  <div>
+    <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <p>C</p>
+  </div>
+  <div>
+    <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    <p>C#</p>
+  </div>
+  <div>
+    <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    <p>C++</p>
+  </div>
+  <div>
+    <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <p>Java</p>
+  </div>
+  <div>
+    <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+    <p>PHP</p>
+  </div>
+  <div>
+    <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <p>PostgreSQL</p>
+  </div>
+  <div>
+    <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <p>MySQL</p>
+  </div>
+  <div>
+    <img align="center" alt="SQL Server" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
+    <p>SQL Server</p>
+  </div>
+  <div>
+    <img align="center" alt="Pascal" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Free_Pascal_logo.svg">
+    <p>Pascal</p>
+  </div>
+  <div>
+    <img align="center" alt="Delphi" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg">
+    <p>Delphi</p>
+  </div>
+  <div>
+    <img align="center" alt="STM32" height="40" width="40" src="https://img.icons8.com/color/48/000000/stm32.png">
+    <p>STM32</p>
+  </div>
+  <div>
+    <img align="center" alt="Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+    <p>Flutter</p>
+  </div>
+  <div>
+    <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+    <p>Dart</p>
+  </div>
+  <div>
+    <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <p>Python</p>
+  </div>
+  <div>
+    <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <p>Git</p>
+  </div>
+  <div>
+    <img align="center" alt="GitHub" height="40" width="40" src="https://img.icons8.com/ios-filled/50/ffffff/github.png">
+    <p>GitHub</p>
+  </div>
+  <div>
+    <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <p>Figma</p>
+  </div>
+  <div>
+    <img align="center" alt="Fireworks" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-fireworks.png">
+    <p>Fireworks</p>
+  </div>
+  <div>
+    <img align="center" alt="Premiere" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Adobe_Premiere_Pro_CC_logo.svg">
+    <p>Premiere</p>
+  </div>
+  <div>
+    <img align="center" alt="After Effects" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png">
+    <p>After Effects</p>
+  </div>
 </div>
 
 
