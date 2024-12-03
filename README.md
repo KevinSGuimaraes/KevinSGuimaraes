@@ -4,7 +4,7 @@
 
 🎓 Formado em Engenharia de Computação pela [Universidade Tecnológica Federal do Paraná (UTFPR)](http://portal.utfpr.edu.br/), Campus Pato Branco. Também sou Técnico em Informática pelo [Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA)](https://portal.ifba.edu.br/eunapolis), Campus Eunápolis.
 
-👩‍💻 Atualmente, trabalho como Técnico de Ensino Pleno @ [SENAI Dois Vizinhos](https://www.senaipr.org.br/doisvizinhos), ministrando disciplinas como Lógica de Programação, Algoritmos, Engenharia de Software e Banco de Dados. Meu foco está em preparar os alunos para desafios reais, com ênfase no uso de linguagens de programação como C, PHP e JavaScript, além de PostgreSQL para banco de dados.
+👩‍💻 Atualmente, trabalho como Técnico de Ensino Pleno @[SENAI Dois Vizinhos](https://novo.sistemafiep.org.br/), ministrando disciplinas como Lógica de Programação, Algoritmos, Engenharia de Software e Banco de Dados. Meu foco está em preparar os alunos para desafios reais, com ênfase no uso de linguagens de programação como C, PHP e JavaScript, além de PostgreSQL para banco de dados.
 
 🔎 Sou apaixonado por temas relacionados a sistemas embarcados, prototipação de circuitos e esquemas eletrônicos, além de tecnologias de inovação.
 
