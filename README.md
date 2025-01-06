@@ -92,6 +92,7 @@ Liderei a estrutura de redes da empresa e desenvolvi sistemas web.
 <a href="https://github.com/KevinSGuimaraes">
   <img width="425em" height="300em" src="https://github-readme-stats.vercel.app/api?username=KevinSGuimaraes&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
 </a>
+<br /> 
 <a href="https://github.com/KevinSGuimaraes">
   <img width="425em" height="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinSGuimaraes&theme=vue-dark&hide_border=false"/>
 </a>
