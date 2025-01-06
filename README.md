@@ -90,13 +90,13 @@ Liderei a estrutura de redes da empresa e desenvolvi sistemas web.
 ### GitHub Stats ⚡
 <div align="center">
 <a href="https://github.com/KevinSGuimaraes">
-  <img width="425em" height="300em" src="https://github-readme-stats.vercel.app/api?username=KevinSGuimaraes&theme=cobalt&show_icons=true&hide_border=false&count_private=true"/>
+  <img width="425em" height="300em" src="https://github-readme-stats.vercel.app/api?username=KevinSGuimaraes&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
 </a>
 <a href="https://github.com/KevinSGuimaraes">
-  <img width="425em" height="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinSGuimaraes&theme=cobalt&hide_border=false"/>
+  <img width="425em" height="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinSGuimaraes&theme=vue-dark&hide_border=false"/>
 </a>
 <a href="https://github.com/KevinSGuimaraes">
-  <img width="850em" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSGuimaraes&theme=cobalt&show_icons=true&hide_border=false&layout=compact"/>
+  <img width="850em" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSGuimaraes&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
 </a>
 </div>
 
